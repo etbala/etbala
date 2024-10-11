@@ -7,11 +7,11 @@
 
 Currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 
-### GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=etbala&show_icons=true&theme=radical&hide=prs)
 
-### Technologies
+## Technologies
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etbala&layout=compact&theme=radical)
 
