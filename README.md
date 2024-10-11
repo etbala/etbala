@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-ethan.balakumar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethan.balakumar@gmail.com)
 <!--[![Website](https://img.shields.io/badge/-url.here-333?style=flat&logo=gnome-terminal&logoColor=white)](https://url.here)-->
 
-I'm currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels).
+I'm currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 
 ### GitHub Stats
 
@@ -21,7 +21,7 @@ I'm currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuel
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![x86](https://img.shields.io/badge/-x86-333333?style=flat)
 
