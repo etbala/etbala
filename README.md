@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-ethan.balakumar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethan.balakumar@gmail.com)
 <!--[![Website](https://img.shields.io/badge/-url.here-333?style=flat&logo=gnome-terminal&logoColor=white)](https://url.here)-->
 
-I'm currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
+Currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 
 ### GitHub Stats
 
