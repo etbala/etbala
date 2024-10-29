@@ -7,15 +7,14 @@
 
 Currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 
-## GitHub Stats
+<a href="https://github.com/etbala">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=etbala&show_icons=true&theme=radical&hide=prs&hide_rank=true&rank_icon=percentile" />
+</a>
+<a href="https://github.com/etbala?tab=repositories">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=etbala&layout=compact&theme=radical&exclude_repo=ValuationCalculator&card_width=300" />
+</a>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=etbala&show_icons=true&theme=radical&hide=prs)
-
-## Technologies
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etbala&layout=compact&theme=radical)
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,4 +30,4 @@ Currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat&logo=unreal-engine&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat&logo=unreal-engine&logoColor=white)-->
