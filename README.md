@@ -9,10 +9,10 @@ Currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 
 <a href="https://github.com/etbala">
   <!--<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=etbala&show_icons=true&theme=radical&hide=prs&hide_rank=true&rank_icon=percentile" />-->
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etbala&theme=radical" alt="etbala" />
+  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etbala&theme=radical" alt="etbala" />
 </a>
 <a href="https://github.com/etbala?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=etbala&layout=compact&theme=radical&exclude_repo=ValuationCalculator&card_width=300" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=etbala&layout=compact&theme=radical&exclude_repo=ValuationCalculator&card_width=300" />
 </a>
 
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
