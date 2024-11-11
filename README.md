@@ -1,9 +1,9 @@
 # Hi, I'm Ethan 👋
 
-[![Linkedin](https://img.shields.io/badge/-ebalakumar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebalakumar/)](https://www.linkedin.com/in/ebalakumar/)
-[![Email](https://img.shields.io/badge/-balake@rpi.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:balake@rpi.edu)
-[![Email](https://img.shields.io/badge/-ethan.balakumar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethan.balakumar@gmail.com)
-<!--[![Website](https://img.shields.io/badge/-url.here-333?style=flat&logo=gnome-terminal&logoColor=white)](https://url.here)-->
+[![Personal Website](https://img.shields.io/badge/-etbala.com-333?style=flat&logo=gnome-terminal&logoColor=white)](https://etbala.com)
+[![School Email](https://img.shields.io/badge/-balake@rpi.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:balake@rpi.edu)
+[![Personal Email](https://img.shields.io/badge/-ethan.balakumar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethan.balakumar@gmail.com)
+
 
 Currently working on [LeetCode Duels](https://github.com/etbala/LeetCodeDuels)
 
